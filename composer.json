@@ -1,7 +1,7 @@
 {
-    "name": "dwater/spring",
+    "name": "dwater/easyii",
     "version": "dev-master",
-    "description": "Easy CMS easyii",
+    "description": "easyii",
     "keywords": ["easyii"],
     "type": "yii2-extension",
     "license": "GNU GPL V3",
