@@ -8,8 +8,8 @@
     "minimum-stability": "dev",
     "support": {
         "wiki": "http://easyiicms.com/noumo/dwater/spring",
-        "source": "https://github.com/dwater/spring.git",
-        "issues": "https://github.com/dwater/spring/issues"
+        "source": "https://github.com/dwater/easyii.git",
+        "issues": "https://github.com/dwater/easyii/issues"
     },
     "authors": [
         {
