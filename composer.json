@@ -7,7 +7,6 @@
     "license": "GNU GPL V3",
     "minimum-stability": "dev",
     "support": {
-        "wiki": "http://easyiicms.com/noumo/dwater/spring",
         "source": "https://github.com/dwater/easyii.git",
         "issues": "https://github.com/dwater/easyii/issues"
     },
