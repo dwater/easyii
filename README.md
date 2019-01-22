@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+=======
 # easyii based on Easyii cms.
 
 =======
