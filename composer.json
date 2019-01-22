@@ -1,0 +1,40 @@
+{
+    "name": "dwater/spring",
+    "version": "dev-master",
+    "description": "Easy CMS easyii",
+    "keywords": ["easyii"],
+    "type": "yii2-extension",
+    "license": "GNU GPL V3",
+    "minimum-stability": "dev",
+    "support": {
+        "wiki": "http://easyiicms.com/noumo/dwater/spring",
+        "source": "https://github.com/dwater/spring.git",
+        "issues": "https://github.com/dwater/spring/issues"
+    },
+    "authors": [
+        {
+            "name": "Lance",
+            "email": "dwater@126.com",
+            "role" : "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "yiisoft/yii2": "*",
+        "yiisoft/yii2-bootstrap": "*",
+        "yiisoft/yii2-swiftmailer": "*",
+        "creocoder/yii2-nested-sets": "0.9.*",
+        "bower-asset/fancybox": ">=3.4.0",
+        "bower-asset/jquery.switcher": "*",
+        "bower-asset/eonasdan-bootstrap-datetimepicker": "^4.7@dev",
+        "2amigos/yii2-selectize-widget": "~1.0"
+    },
+	"config" : {
+        "fxp-asset" : {
+            "installer-paths" : {
+            "npm-asset-library" : "vendor/npm",
+            "bower-asset-library" : "vendor/bower"
+            }
+        }
+    }
+}
