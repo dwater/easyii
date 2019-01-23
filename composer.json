@@ -4,7 +4,7 @@
     "description": "Easy CMS based on Yii2 Framework",
     "keywords": ["easyii"],
     "type": "yii2-extension",
-    "license": "GNU GPL V3",
+    "license": "GPL-3.0-only",
     "minimum-stability": "dev",
     "support": {
         "source": "https://github.com/dwater/easyii.git",
